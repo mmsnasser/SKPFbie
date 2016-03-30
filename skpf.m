@@ -10,10 +10,10 @@ function  omgz   = skpf  (z , alp )
 % -----
 % Input:
 %   dv = a vector of circle centers.
-%   qq = a vector of circle radii.
+%   qv = a vector of circle radii.
 %   n  =   the number of node in the discretization of each boundary circle.
 %   alphain = a select point in the bounded domain D.
-%   dv, dq, n, alphain: must be global
+%   dv, qv, n, alphain: must be global
 %
 %   Then, we call:
 %   vj;
@@ -31,7 +31,7 @@ function  omgz   = skpf  (z , alp )
 % Copyright Mohamed Nasser, 2016
 % Please cite this function as:
 % M. M. S. Nasser, SKPFbie: a fast boundary integral equation 
-% implementation of the Schottky–Klein prime function in MATLAB, 
+% implementation of the Schottkyâ€“Klein prime function in MATLAB, 
 % Version 1.1, 2016. https://github.com/mmsnasser/SKPFbie.
 %
 % 
