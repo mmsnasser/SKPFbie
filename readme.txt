@@ -5,7 +5,7 @@
 % D.G. Crowdy, C.C. Green, E.H. Kropf, M.M.S. Nasser. "The 
 % Schottky-Klein prime function: a theoretical and computational 
 % tool for applications." IMA Journal of Applied Mathematics, 
-% in press, 2016.
+% doi: 10.1093/imamat/hxw028, 2016.
 
 %  PLEASE note that this toolbox contains the files:
 %  zfmm2dpart.m
